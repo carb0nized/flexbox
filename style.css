@@ -1,0 +1,30 @@
+#container {
+  border: solid 2px black;
+  font-family: Arial, Helvetica, sans-serif;
+  direction: flex;
+  font-size: 8em;
+  text-align: center;
+}
+
+#box {
+  color: black;
+  border-radius: 10px;
+  width: 150px;
+  height: 150px;
+}
+
+.box1 {
+  background-color: rgb(141, 223, 19);
+}
+
+.box2 {
+  background-color: rgb(74, 18, 187);
+}
+
+.box3 {
+  background-color: rgb(179, 21, 60);
+}
+
+.box4 {
+  background-color: rgb(20, 155, 227);
+}
